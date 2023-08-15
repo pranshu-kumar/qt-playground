@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug/FileEditor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/madraven/Documents/qt-playground/FileEditor",
+	"CMAKE_SOURCE_DIR" : "/home/madraven/Documents/qt-playground/FileEditor",
+	"INCLUDE_DIR" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug/FileEditor_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/icons8-save-48.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/folder.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/underline.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/new-document.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/italic-font.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/icons8-save-as-48.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/cut_1150985.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/bold.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/copy_1834056.png",
+		"/home/madraven/Documents/qt-playground/FileEditor/assets/paste.png"
+	],
+	"LOCK_FILE" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/FileEditor_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/madraven/Qt/6.5.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/madraven/Documents/qt-playground/build-FileEditor-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/FileEditor_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/madraven/Documents/qt-playground/FileEditor/resources.qrc",
+	"VERBOSITY" : 0
+}

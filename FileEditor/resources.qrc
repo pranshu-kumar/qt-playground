@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/bold.png</file>
+        <file>assets/italic-font.png</file>
+        <file>assets/underline.png</file>
+        <file>assets/folder.png</file>
+        <file>assets/new-document.png</file>
+        <file>assets/icons8-save-48.png</file>
+        <file>assets/icons8-save-as-48.png</file>
+        <file>assets/copy_1834056.png</file>
+        <file>assets/cut_1150985.png</file>
+        <file>assets/paste.png</file>
+    </qresource>
+</RCC>
