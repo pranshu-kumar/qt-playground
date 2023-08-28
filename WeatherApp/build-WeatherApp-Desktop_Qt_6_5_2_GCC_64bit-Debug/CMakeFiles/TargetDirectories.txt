@@ -1,0 +1,9 @@
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/WeatherApp.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/WeatherApp_autogen_timestamp_deps.dir
+/home/madraven/Documents/dev/qt-playground/WeatherApp/build-WeatherApp-Desktop_Qt_6_5_2_GCC_64bit-Debug/CMakeFiles/WeatherApp_autogen.dir
